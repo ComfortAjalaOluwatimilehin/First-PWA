@@ -1,0 +1,17 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css";
+body {
+  width:100vw;
+  height:100vw;
+}
+body > div {
+    min-height: 50vw;
+}
+.card > div > h4 {
+    background: #25adad;
+    color: #e3f9f9;
+    padding: 15px;
+}
+
+#loader{
+  width: 40px;
+}
